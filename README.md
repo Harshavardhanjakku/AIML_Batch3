@@ -4,3 +4,4 @@
 3.[Lab3](https://github.com/Harshavardhanjakku/AIML_Batch3/blob/main/Assignment3_all.ipynb)
 4.[Lab4](https://github.com/Harshavardhanjakku/AIML_Batch3/blob/main/assignment4.ipynb)
 5.[Lab5](https://github.com/Harshavardhanjakku/AIML_Batch3/blob/main/Assignment5.ipynb)
+6.[Lab6}(https://github.com/Harshavardhanjakku/AIML_Batch3/blob/main/Assignment6.ipynb)
