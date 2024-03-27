@@ -10,3 +10,5 @@
 5.[Lab5](https://github.com/Harshavardhanjakku/AIML_Batch3/blob/main/Assignment5.ipynb)
 
 6.[Lab6](https://github.com/Harshavardhanjakku/AIML_Batch3/blob/main/Assignment6.ipynb)
+
+7.[Lab7](https://github.com/Harshavardhanjakku/AIML_Batch3/blob/main/Assignment7.ipynb)
